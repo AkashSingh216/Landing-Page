@@ -1,0 +1,109 @@
+.object-cls{
+    position: absolute;
+    top: 39%;
+    font-family: auto;
+    font-size: xxx-large;
+    left: 39px;
+    color: aliceblue;
+}
+
+.pic-2-img{
+    position: absolute;
+    top: 67px;
+    width: 5%;
+    left: 58px;
+}
+
+.object1-cls {
+    position: absolute;
+    top: 54%;
+    color: aliceblue;
+    left: 39px;
+    font-family: sans-serif;
+    font-size: x-large;
+    font-stretch: semi-expanded;
+}
+
+.object2-cls {
+    position: absolute;
+    top: 60%;
+    color: aliceblue;
+    left: 39px;
+    font-family: sans-serif;
+    font-size: x-large;
+    font-stretch: semi-expanded;
+}
+
+.object3-cls {
+    position: absolute;
+    top: 66%;
+    color: aliceblue;
+    left: 39px;
+    font-family: sans-serif;
+    font-size: x-large;
+    font-stretch: semi-expanded;
+}
+
+.pic-3-img{
+    position: absolute;
+    top: 83%;
+    width: 15%;
+    height: 7%;
+    left: 40px;
+}
+
+.object4-cls{
+    position: absolute;
+    color: aliceblue;
+    top: 79%;
+    left: 66px;
+    font-size: x-large;
+}
+
+.contact-cls{
+    position: absolute;
+    color: aliceblue;
+    top: 10.4%;
+    left: 508px;
+    font-style: oblique;
+    font-size: x-large;
+}
+
+.delivery-cls{
+    position: absolute;
+    color: aliceblue;
+    top: 9%;
+    left: 724px;
+    font-style: oblique;
+    font-size: x-large;
+}
+
+.menu-cls{
+    position: absolute;
+    color: aliceblue;
+    top: 7%;
+    left: 948px;
+    font-style: oblique;
+    font-size: x-large;
+}
+
+.pic-4-img  {
+    position: absolute;
+    width: 2.75%;
+    top: 15%;
+    left: 474px;
+}
+
+.pic-5-img{
+    position: absolute;
+    width: 2.10%;
+    top: 15%;
+    left: 61%;
+}
+
+.pic-6-img {
+    position: absolute;
+    width: 2.25%;
+    top: 15.5%;
+    left: 80.5%;
+}
